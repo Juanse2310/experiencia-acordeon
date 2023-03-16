@@ -33,24 +33,24 @@ function App() {
 }
 const data =[
   { 
-    experiencia: 'experiencia1',
+    experiencia: 'Facility Manager Support Citibank-Sodexo                         <MARZO 2022 – Presente>',
     descripcion:
-  'descripcion experiencia laboral 1'
+  'Tareas administrativas vinculadas al facility managment en dos  de los sitios más importantes de CitiBank. Seguimiento de Schedule de tareas livianas. Gestión/seguimientos de materiales/servicios/presupuestos, primer contacto con proveedores. Confección y traducciones de informes & presentaciones. '
   },
   {
-    experiencia: 'experiencia2',
+    experiencia: 'Asistente Administrativo & Facility coordinator   Arauco S.A.       <Sep, 2015 - Dic, 2021>',
     descripcion:
-    'descripcion experiencia laboral  2'
+    'Asistente administrativo responsable del control documental de proveedores y contratistas. Coordinación del área de mantenimiento general del edificio, maestranza y servicio de vigilancia. Gestión de especificaciones técnicas para servicios/compras/licitaciones/visitas de obra, entre otros.'
   },
   {
-    experiencia: 'experiencia3',
+    experiencia: 'Data Entry // Asistente Administrativo  Cencosud S.A.                <Feb, 2010 - Abr, 2015>',
     descripcion:
-    'descripcion experiencia laboral  3'
+    'Ajustes y modificación de cuentas. Bajas y manejo de documentación. Capacitación constante en prevención de lavado de dinero. Confiado al proceso de migración de sistemas a plataformas MasterCard.'
   },
   {
-    experiencia: 'experiencia4',
+    experiencia: 'Vendedor Telefónico   Telefonica Argentina                         <Ene, 2009 - Feb, 2010>',
     descripcion:
-    'descripcion experiencia laboral  4'
+    'Ventas de productos telefónica para pymes y negocios. Venta de servicios para movistar'
   }
 ]
 
