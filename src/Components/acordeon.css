@@ -1,0 +1,39 @@
+.contenido{
+    display:flex;
+    height: 100vh;
+    width: 100vw;
+    justify-content: center;
+    align-items: center;
+  
+  }
+  .acordeon{
+    width: 500px;
+  }
+  .item {
+    background-color: rgb(58, 56, 56);
+    margin-bottom: 5px;
+    padding: 10px 20px;
+  }
+  .titulos {
+    color: rgb(153, 12, 247);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+  }
+  .detalle {
+    color:  rgb(191, 102, 250);
+    max-height: 0;
+    overflow: hidden;
+    transition: all 0.5s cubic-bezier(0,1,0,1);
+  }
+  .detalle.show {
+    height: auto;
+    max-height: 9999px;
+    transition: all 0.5s cubic-bezier(0,1,0,1);
+  
+  }
+  span {
+    font-weight: 900;
+    font-size: xx-large;
+  }
